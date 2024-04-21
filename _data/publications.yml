@@ -3,7 +3,7 @@ main:
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
-    image: ./assets/img/IR2_IROS2024_cover.png
+    image: ./assets/img/IR2_iros2024.png
     
   - title: "Privileged Reinforcement Learning for Distributed, Bandwidth-limited Multi-Robot Exploration"
     authors: Yixiao Ma, Jingsong Liang, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
