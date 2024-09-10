@@ -2,13 +2,19 @@ main:
 
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024 <strong> [Oral Presentation]</strong>.
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
+    pdf: https://arxiv.org/abs/2409.04730
+    code: https://github.com/marmotlab/IR2-Multi-Robot-RL-Exploration
     image: ./assets/img/IR2_iros2024.png
+    notes: Oral Presentation
     
   - title: "Privileged Reinforcement Learning for Distributed, Bandwidth-limited Multi-Robot Exploration"
     authors: Yixiao Ma, Jingsong Liang, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
     conference: International Symposium on Distributed Autonomous Robotic Systems (DARS), 2024.
+    pdf: https://arxiv.org/abs/2407.20203
+    code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
     image: ./assets/img/dars2024_cover.jpg
+    notes: Oral Presentation
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
