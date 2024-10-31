@@ -5,6 +5,7 @@ main:
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
     pdf: https://arxiv.org/abs/2409.04730
     code: https://github.com/marmotlab/IR2-Multi-Robot-RL-Exploration
+    video: https://www.youtube.com/watch?v=KpLl6dIs_A0
     image: ./assets/img/IR2_iros2024.png
     notes: Oral Presentation
     
