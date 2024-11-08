@@ -17,6 +17,14 @@ main:
     image: ./assets/img/dars2024_cover.jpg
     notes: Oral Presentation
 
+  - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
+    authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
+    conference: EEE International Conference on Robotics and Automation (ICRA), 2024.
+    # pdf: https://arxiv.org/abs/2407.20203
+    # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
+    image: ./assets/img/icra2024_poster_cover.jpg
+    notes: Workshop Poster
+
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
