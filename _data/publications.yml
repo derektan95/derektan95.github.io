@@ -6,7 +6,7 @@ main:
     page: https://search-tta.github.io
     pdf: https://arxiv.org/abs/2505.11350
     code: https://github.com/marmotlab/Search-TTA
-    image: ./assets/img/search_tta_cover.jpg
+    image: ./assets/img/search_tta_cover_v2.png
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
     # notes: Oral Presentation
 
