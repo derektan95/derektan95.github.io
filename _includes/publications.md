@@ -19,9 +19,9 @@
       <!-- <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div> -->
       <div class="title">
         {% if link.page %}
-          <a href="{{ link.page }}">{{ link.title }}</a>
+          <a href="{{ link.page }} " target="_blank">{{ link.title }}</a>
         {% elsif link.pdf %}
-          <a href="{{ link.pdf }}">{{ link.title }}</a>
+          <a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a>
         {% else %}
           {{ link.title }}
         {% endif %}
