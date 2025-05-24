@@ -1,8 +1,27 @@
 main:
 
+  - title: "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild"
+    authors: <strong>Derek Ming Siang Tan</strong>, Shailesh, Boyang Liu, Alok Raj, Qi Xuan Ang, Weiheng Dai, Tanishq Duhan, Jimmy Chiun, Yuhong Cao, Florian Shkurti, Guillaume Sartoretti
+    conference: Under Review.
+    page: https://search-tta.github.io
+    pdf: https://arxiv.org/abs/2505.11350
+    code: https://github.com/marmotlab/Search-TTA
+    image: ./assets/img/search_tta_cover.jpg
+    # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
+    # notes: Oral Presentation
+
+  - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
+    authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
+    pdf: ./assets/files/VLM_Ergodic_Search_Poster_ICRA2024.pdf
+    image: ./assets/img/icra2024_poster_cover.png
+    notes: Workshop Poster
+    # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
+
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
+    page: https://ir2-explore.github.io
     pdf: https://arxiv.org/abs/2409.04730
     code: https://github.com/marmotlab/IR2-Multi-Robot-RL-Exploration
     video: https://www.youtube.com/watch?v=KpLl6dIs_A0
@@ -16,14 +35,6 @@ main:
     code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
     image: ./assets/img/dars2024_cover.jpg
     notes: Oral Presentation
-
-  # - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
-  #   authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
-  #   conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
-  #   # pdf: https://arxiv.org/abs/2407.20203
-  #   # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
-  #   image: ./assets/img/icra2024_poster_cover.png
-  #   notes: Workshop Poster
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)

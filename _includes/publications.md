@@ -17,10 +17,14 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <!-- <div class="title"><a href="{% if link.page %}{{ link.page }}{% else %}{{ link.pdf }}{% endif %}">{{ link.title }} -->
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% if link.page %} 
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
@@ -29,9 +33,6 @@
       {% endif %}
       {% if link.video %} 
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
