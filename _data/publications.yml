@@ -13,7 +13,7 @@ main:
   - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
     authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
-    pdf: ./assets/files/VLM_Ergodic_Search_Poster_ICRA2024.pdf
+    pdf: ./assets/files/ICRA2024_Context_Mask_Priors_via_Vision_Language_Model_for_Ergodic_Search.pdf
     image: ./assets/img/icra2024_poster_cover.png
     notes: Workshop Poster
     # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
