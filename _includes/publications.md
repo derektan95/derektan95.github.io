@@ -30,9 +30,6 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.demo %} 
-      <a href="{{ link.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
@@ -47,6 +44,9 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.demo %} 
+      <a href="{{ link.demo }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
