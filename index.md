@@ -15,6 +15,7 @@ I am currently a Ph.D. Candidate at the National University of Singapore (NUS), 
 
 ## News
 
+- **[Aug. 2025]** Our paper on Test-Time Adaptation for visual navigation & search is accepted to CoRL 2025. See you in Seoul!
 - **[Jul. 2024]** I passed my Oral Qualification Exams 🎉.
 - **[Jul. 2024]** Our paper on bandwidth-limited multi-robot exploration is accepted to DARS 2024.
 - **[Jun. 2024]** Our paper on multi-robot exploration and rendezvous is accepted to IROS 2024.

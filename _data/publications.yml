@@ -2,7 +2,7 @@ main:
 
   - title: "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild"
     authors: <strong>Derek Ming Siang Tan</strong>, Shailesh, Boyang Liu, Alok Raj, Qi Xuan Ang, Weiheng Dai, Tanishq Duhan, Jimmy Chiun, Yuhong Cao, Florian Shkurti, Guillaume Sartoretti
-    conference: Under Review.
+    conference: Conference on Robot Learning (CoRL), 2025.
     page: https://search-tta.github.io
     pdf: https://arxiv.org/abs/2505.11350
     code: https://github.com/marmotlab/Search-TTA
