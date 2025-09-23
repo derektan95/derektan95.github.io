@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. Candidate at the National University of Singapore (NUS), specializing in deep learning for distributed robotic systems. Really fortunate to be part of [Multi-Agent Robotic Motion (MARMot) Lab](https://www.marmotlab.org/), under the supervision of [Prof. Guillaume Sartoretti](https://cde.nus.edu.sg/me/staff/sartoretti-guillaume-a/) and [Prof. Marcelo Ang](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/). I was also a visiting researcher at the [Robot Vision and Learning (RVL) Lab](https://rvl.cs.toronto.edu/) under [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/), researching on multimodal foundation models. 
+I am currently a Ph.D. Candidate at the National University of Singapore (NUS), specializing in VLA/VLNs and RL for robotic systems. Really fortunate to be part of [Multi-Agent Robotic Motion (MARMot) Lab](https://www.marmotlab.org/), under the supervision of [Prof. Guillaume Sartoretti](https://cde.nus.edu.sg/me/staff/sartoretti-guillaume-a/) and [Prof. Marcelo Ang](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/). I was also a visiting researcher at the [Robot Vision and Learning (RVL) Lab](https://rvl.cs.toronto.edu/) under [Prof. Florian Shkurti](https://www.cs.toronto.edu/~florian/), researching on multimodal foundation models. 
 
 I am also working part-time in [Singapore Technologies Engineering](https://www.stengg.com/), having worked on developing the autonomy for all sorts of robots (UGVs, UAVs, quadrupeds etc.), and more recently, as a systems engineer designing a generic interface to connect our products to latest Embodied AI tech. Happy to chat more about anything related to AI or robotics!
 
