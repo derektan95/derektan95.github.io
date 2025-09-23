@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href=""><autocolor>Drones for Conservation and Health Workshop (NUS) 2025 - Foundation Models for Wildlife Search & Ecological Monitoring</autocolor></a></li>
+  <li><a href=""><autocolor>Multimodal Robot Navigation & Search (UToronto) 2025 - Test‑Time Adaptation for VLM corrections</autocolor></a></li>
   <!-- <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li> -->
 </ul>
