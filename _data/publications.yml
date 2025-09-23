@@ -11,14 +11,6 @@ main:
     notes: Spotlight
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
 
-  - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
-    authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
-    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
-    pdf: ./assets/files/ICRA2024_Context_Mask_Priors_via_Vision_Language_Model_for_Ergodic_Search.pdf
-    image: ./assets/img/icra2024_poster_cover.png
-    notes: Workshop Poster
-    # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
-
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
@@ -28,6 +20,14 @@ main:
     video: https://www.youtube.com/watch?v=KpLl6dIs_A0
     image: ./assets/img/IR2_iros2024.png
     notes: Oral Presentation
+
+  - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
+    authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
+    conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
+    pdf: ./assets/files/ICRA2024_Context_Mask_Priors_via_Vision_Language_Model_for_Ergodic_Search.pdf
+    image: ./assets/img/icra2024_poster_cover.png
+    notes: Workshop Poster
+    # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
     
   - title: "Privileged Reinforcement Learning for Distributed, Bandwidth-limited Multi-Robot Exploration"
     authors: Yixiao Ma, Jingsong Liang, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
