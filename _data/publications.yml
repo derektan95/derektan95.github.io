@@ -8,7 +8,7 @@ main:
     code: https://github.com/marmotlab/Search-TTA
     video: https://www.youtube.com/watch?v=Z9-PAZeZDwM
     demo: https://huggingface.co/spaces/derektan95/search-tta-demo
-    image: ./assets/img/search_tta_cover_v4.png
+    image: ./assets/img/search_tta_cover_v5.gif
     notes: Spotlight
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
 
