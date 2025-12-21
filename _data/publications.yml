@@ -1,7 +1,7 @@
 main:
 
   - title: "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild"
-    authors: <strong>Derek Ming Siang Tan</strong>, Shailesh, Boyang Liu, Alok Raj, Qi Xuan Ang, Weiheng Dai, Tanishq Duhan, Jimmy Chiun, Yuhong Cao, Florian Shkurti, Guillaume Sartoretti
+    authors: <strong>Derek M. S. Tan</strong>, Shailesh, Boyang Liu, Alok Raj, Qi Xuan Ang, Weiheng Dai, Tanishq Duhan, Jimmy Chiun, Yuhong Cao, Florian Shkurti, Guillaume Sartoretti
     conference: Conference on Robot Learning (CoRL), 2025.
     page: https://search-tta.github.io
     pdf: https://arxiv.org/abs/2505.11350
@@ -13,8 +13,8 @@ main:
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
 
   - title: "AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning"
-    authors: Jeric Lew, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
-    conference: Arxiv Preprint
+    authors: Jeric Lew, Yuhong Cao, <strong>Derek M. S. Tan</strong>, Guillaume Sartoretti
+    conference: Arxiv Preprint, 2025
     pdf: https://arxiv.org/abs/2512.02535
     code: https://github.com/marmotlab/AID
     image: ./assets/img/AID.gif
@@ -23,7 +23,7 @@ main:
     # notes: Oral Presentation
 
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
-    authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
+    authors: <strong>Derek M. S. Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
     page: https://ir2-explore.github.io
     pdf: https://arxiv.org/abs/2409.04730
@@ -33,7 +33,7 @@ main:
     notes: Oral Presentation
 
   - title: "Context Mask Priors via Vision-Language Model for Ergodic Search"
-    authors: <strong>Derek Ming Siang Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
+    authors: <strong>Derek M. S. Tan</strong>, Ananya Rao, Abigail Breitfeld, Guillaume Sartoretti
     conference: IEEE International Conference on Robotics and Automation (ICRA), 2024.
     pdf: ./assets/files/ICRA2024_Context_Mask_Priors_via_Vision_Language_Model_for_Ergodic_Search.pdf
     image: ./assets/img/icra2024_poster_cover_v2.png
@@ -41,7 +41,7 @@ main:
     # code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
     
   - title: "Privileged Reinforcement Learning for Distributed, Bandwidth-limited Multi-Robot Exploration"
-    authors: Yixiao Ma, Jingsong Liang, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
+    authors: Yixiao Ma, Jingsong Liang, Yuhong Cao, <strong>Derek M. S. Tan</strong>, Guillaume Sartoretti
     conference: International Symposium on Distributed Autonomous Robotic Systems (DARS), 2024.
     pdf: https://arxiv.org/abs/2407.20203
     code: https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration
