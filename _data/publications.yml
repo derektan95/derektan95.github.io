@@ -12,6 +12,16 @@ main:
     notes: Spotlight
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
 
+  - title: "AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning"
+    authors: Jeric Lew, Yuhong Cao, <strong>Derek Ming Siang Tan</strong>, Guillaume Sartoretti
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/abs/2512.02535
+    code: https://github.com/marmotlab/AID
+    image: ./assets/img/AID.gif
+    # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
+    # page: https://ir2-explore.github.io
+    # notes: Oral Presentation
+
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek Ming Siang Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
