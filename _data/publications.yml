@@ -12,6 +12,16 @@ main:
     notes: Spotlight
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
 
+  - title: "ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation"
+    authors: Shizhe Zhang, Jingsong Liang, Zhitao Zhou, Shuhan Ye, Yizhuo Wang, <strong>Derek M. S. Tan</strong>, Jimmy Chiun, Yuhong Cao, Guillaume Sartoretti
+    conference: Arxiv Preprint, 2025
+    pdf: https://arxiv.org/abs/2601.01155
+    code: https://github.com/marmotlab/ORION-multi-agent-navigation
+    image: ./assets/img/orion_ros.gif
+    # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
+    # page: https://ir2-explore.github.io
+    # notes: Oral Presentation
+
   - title: "AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning"
     authors: Jeric Lew, Yuhong Cao, <strong>Derek M. S. Tan</strong>, Guillaume Sartoretti
     conference: Arxiv Preprint, 2025
