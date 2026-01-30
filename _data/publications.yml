@@ -24,7 +24,7 @@ main:
 
   - title: "AID: Agent Intent from Diffusion for Multi-Agent Informative Path Planning"
     authors: Jeric Lew, Yuhong Cao, <strong>Derek M. S. Tan</strong>, Guillaume Sartoretti
-    conference: Arxiv Preprint, 2025
+    conference: International Conference on Swarm Intelligence, 2025
     pdf: https://arxiv.org/abs/2512.02535
     code: https://github.com/marmotlab/AID
     image: ./assets/img/AID.gif
