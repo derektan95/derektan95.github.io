@@ -30,7 +30,7 @@ main:
     image: ./assets/img/AID.gif
     # video: https://www.youtube.com/watch?v=KpLl6dIs_A0
     # page: https://ir2-explore.github.io
-    # notes: Oral Presentation
+    notes: Oral Presentation
 
   - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek M. S. Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
