@@ -14,7 +14,7 @@ main:
 
   - title: "ORION: Option-Regularized Deep Reinforcement Learning for Cooperative Multi-Agent Online Navigation"
     authors: Shizhe Zhang, Jingsong Liang, Zhitao Zhou, Shuhan Ye, Yizhuo Wang, <strong>Derek M. S. Tan</strong>, Jimmy Chiun, Yuhong Cao, Guillaume Sartoretti
-    conference: IEEE Robotics and Automation Letters (RA-L), 2025
+    conference: IEEE Robotics and Automation Letters (RA-L), 2026
     pdf: https://arxiv.org/abs/2601.01155
     code: https://github.com/marmotlab/ORION-multi-agent-navigation
     image: ./assets/img/orion_ros.gif
