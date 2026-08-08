@@ -1,4 +1,13 @@
 main:
+  - title: "RL²-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models"
+    authors: <strong>Derek M. S. Tan</strong>, Shailesh, Srikrishna Iyer and William W. J. Teo and Yuanliang Ju and Qiao Gu and Guillaume Sartoretti
+    conference: Under Review, 2026.
+    page: https://rl2-vla.github.io/
+    pdf: https://arxiv.org/abs/2607.26991
+    code: https://github.com/marmotlab/RL2-VLA
+    video: https://www.youtube.com/watch?v=0qdPVgib6vI
+    image: ./assets/img/rl2_cover.gif
+    # notes: Spotlight
 
   - title: "Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild"
     authors: <strong>Derek M. S. Tan</strong>, Shailesh, Boyang Liu, Alok Raj, Qi Xuan Ang, Weiheng Dai, Tanishq Duhan, Jimmy Chiun, Yuhong Cao, Florian Shkurti, Guillaume Sartoretti
@@ -32,7 +41,7 @@ main:
     # page: https://ir2-explore.github.io
     notes: Oral Presentation
 
-  - title: "IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
+  - title: "IR²: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity"
     authors: <strong>Derek M. S. Tan</strong>, Yixiao Ma, Jingsong Liang, Yi Cheng Chng, Yuhong Cao, Guillaume Sartoretti
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.
     page: https://ir2-explore.github.io

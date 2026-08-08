@@ -16,7 +16,7 @@ I am also working part-time in [Singapore Technologies Engineering](https://www.
 - Distributed Multi-Agent Systems
 
 ## News
-
+- **[Aug. 2025]** Our paper on multi-robot navigation is accepted to RA-L 2026. We will be presenting this at ICRA 2027, see you in Seoul! 🇰🇷
 - **[Aug. 2025]** Our paper on Test-Time Adaptation for visual navigation & search is accepted to CoRL 2025 (Spotlight). See you in Seoul! 🇰🇷
 - **[Jul. 2024]** I passed my Oral Qualification Exams 🎉.
 - **[Jul. 2024]** Our paper on bandwidth-limited multi-robot exploration is accepted to DARS 2024 🇺🇸.
