@@ -8,6 +8,7 @@ I am currently a Ph.D. Candidate at the National University of Singapore (NUS), 
 
 I am also working part-time in [Singapore Technologies Engineering](https://www.stengg.com/), having led many initiatives on developing the autonomy for all sorts of robots (UGVs, UAVs, quadrupeds etc.), and more recently, as an AI systems engineer designing a generic interface to connect our products to latest Embodied AI tech. Happy to chat more about anything related to AI or robotics!
 
+<p style="text-align: center; color: red; font-style: italic;">I am currently looking for highly-motivated and experienced interns. If you are keen in my area of research, feel free to reach out with your CV.</p>
 
 ## Research Interests
 
