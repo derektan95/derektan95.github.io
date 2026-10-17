@@ -12,7 +12,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.corl.org/"><autocolor>Conference on Robot Learning (CoRL): 2023, 2025</autocolor></a></li>
+  <li><a href="https://www.corl.org/"><autocolor>Conference on Robot Learning (CoRL): 2023, 2025, 2026</autocolor></a></li>
   <li><a href="https://aaai.org/conference/aaai/"><autocolor>Association for the Advancement of AI (AAAI): 2026</autocolor></a></li>
   <li><a href="https://www.ieee-ras.org/publications/ieee-robotics-and-automation-letters/"><autocolor>IEEE Robotics and Automation Letters (RA-L): 2026</autocolor></a></li>
   <li><a href="https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra/"><autocolor>IEEE International Conference on Robotics and Automation (ICRA): 2026</autocolor></a></li>
